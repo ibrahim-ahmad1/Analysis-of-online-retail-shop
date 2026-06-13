@@ -46,4 +46,4 @@ This Power BI dashboard provides insights into sales performance across differen
 
 ## File
 
-* `tcs_certificate.pbix` – Power BI Dashboard File
+* `Sales_Revenue_Dashboard.pbix` – Power BI Dashboard File
